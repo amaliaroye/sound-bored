@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksound_bored=self.webpackChunksound_bored||[]).push([[143],{9143:function(s,e,t){s.exports=t.p+"static/media/stay-strong.9d48a025f9f24af61813.svg"}}]);

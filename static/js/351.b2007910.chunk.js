@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksound_bored=self.webpackChunksound_bored||[]).push([[351],{6351:function(e,s,a){e.exports=a.p+"static/media/all-is-well.24e62ae8809a37eb1c9f.mp4"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksound_bored=self.webpackChunksound_bored||[]).push([[79],{79:function(e,s,o){e.exports=o.p+"static/media/be-cool.ed74265504a394e273a0.mp4"}}]);

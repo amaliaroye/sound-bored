@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksound_bored=self.webpackChunksound_bored||[]).push([[988],{6988:function(e,s,o){e.exports=o.p+"static/media/its-a-good-day.ec3984379e591e8220f0.mp4"}}]);

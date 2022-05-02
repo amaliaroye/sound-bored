@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksound_bored=self.webpackChunksound_bored||[]).push([[915],{2915:function(e,s,u){e.exports=u.p+"static/media/believe-in-you.52094748bb9d9982d4e0.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksound_bored=self.webpackChunksound_bored||[]).push([[479],{1479:function(e,s,o){e.exports=o.p+"static/media/be-cool.5aeb706a7372a0c10132.svg"}}]);

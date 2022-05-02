@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksound_bored=self.webpackChunksound_bored||[]).push([[883],{4883:function(e,s,o){e.exports=o.p+"static/media/you-are-doing-great.a9ec93bc1668328e1b9e.svg"}}]);

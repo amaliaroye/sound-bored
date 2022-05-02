@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksound_bored=self.webpackChunksound_bored||[]).push([[244],{1244:function(e,s,a){e.exports=a.p+"static/media/dream-big.a310280a71af188419d5.mp4"}}]);

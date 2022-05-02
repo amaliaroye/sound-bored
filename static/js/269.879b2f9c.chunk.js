@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksound_bored=self.webpackChunksound_bored||[]).push([[269],{3269:function(e,s,d){e.exports=d.p+"static/media/good-vibes.76af289edd4402a38e00.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksound_bored=self.webpackChunksound_bored||[]).push([[337],{2337:function(s,e,t){s.exports=t.p+"static/media/stay-strong.6de36ba7cd044741133f.mp4"}}]);

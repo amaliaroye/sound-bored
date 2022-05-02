@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksound_bored=self.webpackChunksound_bored||[]).push([[974],{3974:function(e,s,d){e.exports=d.p+"static/media/be-kind.ed865d592c55717b9ef2.svg"}}]);

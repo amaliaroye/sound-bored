@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksound_bored=self.webpackChunksound_bored||[]).push([[349],{349:function(e,s,d){e.exports=d.p+"static/media/everything-will-be-ok.e0f99df7d7a1194d6f75.mp4"}}]);

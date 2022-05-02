@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksound_bored=self.webpackChunksound_bored||[]).push([[343],{9343:function(e,s,o){e.exports=o.p+"static/media/good-vibes.8c3874caab7b6435912d.mp4"}}]);

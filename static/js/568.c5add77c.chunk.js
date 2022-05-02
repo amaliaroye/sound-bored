@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksound_bored=self.webpackChunksound_bored||[]).push([[568],{2568:function(s,e,o){s.exports=o.p+"static/media/you-got-this.1dd527305a2c3692097b.mp4"}}]);

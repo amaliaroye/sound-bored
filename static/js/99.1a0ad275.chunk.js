@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksound_bored=self.webpackChunksound_bored||[]).push([[99],{8099:function(e,s,a){e.exports=a.p+"static/media/love-yourself.2db38ae46285faa04ab8.mp4"}}]);

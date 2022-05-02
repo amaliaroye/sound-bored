@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksound_bored=self.webpackChunksound_bored||[]).push([[574],{6574:function(e,b,s){e.exports=s.p+"static/media/dream-big.0eb9ec1babbcba0d663e.svg"}}]);

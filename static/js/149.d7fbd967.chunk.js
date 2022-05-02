@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksound_bored=self.webpackChunksound_bored||[]).push([[149],{149:function(s,d,e){s.exports=e.p+"static/media/kindness-spreads.4c0ffd62d7d1fab894d9.svg"}}]);

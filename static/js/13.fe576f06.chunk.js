@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksound_bored=self.webpackChunksound_bored||[]).push([[13],{6013:function(e,s,o){e.exports=o.p+"static/media/its-a-good-day.2b32598046efc29ace96.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksound_bored=self.webpackChunksound_bored||[]).push([[625],{2625:function(e,a,s){e.exports=s.p+"static/media/take-care.e8abb433c7137ada4d60.mp4"}}]);

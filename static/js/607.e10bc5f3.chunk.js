@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksound_bored=self.webpackChunksound_bored||[]).push([[607],{9607:function(e,s,a){e.exports=a.p+"static/media/take-care.35e8dc4f487354ba9b87.svg"}}]);
